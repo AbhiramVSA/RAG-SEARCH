@@ -1,6 +1,10 @@
-# RAG-SEARCH
+<p align="center">
+  <img src="assets/rag-search-mark.png" alt="Document and retrieval-search mark" width="200" />
+</p>
 
-A small TypeScript experiment that retrieves context from a Langbase memory and sends it to a Langbase support pipe.
+<h1 align="center">RAG-SEARCH</h1>
+
+<p align="center">A small TypeScript experiment that retrieves context from a Langbase memory and sends it to a Langbase support pipe.</p>
 
 ## Request flow
 
